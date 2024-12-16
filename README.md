@@ -64,7 +64,3 @@ Rate Limiting: Controlling the number of requests a user can make to prevent abu
 Encryption: Using HTTPS to encrypt data in transit, and encrypting sensitive data stored in the database.
 
 Testing: Including security testing as part of the API testing process to identify and fix vulnerabilities.
-
-# Reflection
-## How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
-This course has significantly advanced my professional goals by providing hands-on experience with full stack development using technologies like Angular, Node.js, Express, and MongoDB. I learned to design RESTful APIs, implement security best practices, and master testing techniques. Additionally, I improved my skills in version control with Git, making me a more marketable candidate by demonstrating my ability to build secure, high-quality applications and work effectively in collaborative environments. Overall, the course has equipped me with a robust skill set that aligns with industry demands, enhancing my competitiveness in the job market.
